@@ -1,0 +1,12 @@
+<ol type="a"> 
+<li>HP</li> 
+<ol> 
+<li>15 generation</li> 
+<li>13 generation</li> 
+</ol> 
+<li>Lenovo</li> 
+<ol> 
+<li>12 generation</li> 
+<li>Dell</li> 
+</ol> 
+</ol> 
